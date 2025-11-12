@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(.specify/scripts/powershell/create-new-feature.ps1 -Json -Number 1 -ShortName \"expense-tracker\" \"Build an application that can help me track my expenses. I can record, categorize, and analyze financial transactions. expenses have details such as amount, date, category, and payment method. include filters for viewing expenses like date range, category, or amount, and generate visual summaries like charts and graps for better insights\")",
+      "Bash(powershell -File:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}

@@ -31,7 +31,20 @@
 
 *GATE: Must pass before Phase 0 research. Re-check after Phase 1 design.*
 
-[Gates determined based on constitution file]
+All features MUST comply with constitutional principles. Review and document:
+
+- [ ] **Readability**: Are names clear? Functions focused on single responsibilities?
+- [ ] **Explicitness**: Are side effects visible in naming? No clever hacks?
+- [ ] **Abstractions**: Are abstractions simple and composable?
+- [ ] **Testability**: Does the design enable automated testing?
+- [ ] **Error Handling**: Will errors be clear and actionable?
+- [ ] **Performance**: Clarity prioritized; optimization only when measured?
+- [ ] **Accessibility**: UX surfaces designed for accessibility?
+- [ ] **UX Delight**: Common tasks simple? Good defaults provided?
+- [ ] **Consistency**: Following project conventions and patterns?
+- [ ] **Observability**: Critical flows instrumented for learning?
+
+**Violations requiring justification**: [List any constitutional violations and their justification, or write "None"]
 
 ## Project Structure
 
