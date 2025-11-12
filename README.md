@@ -8,3 +8,9 @@
 # Command-3 - Plan
 
 /speckit.plan Web application with HTML, CSS and JavaScript as much as possible. Store the data in a browser database.
+
+
+# Command-4 - Task
+/speckit.tasks
+
+# Command-5 - Implement
