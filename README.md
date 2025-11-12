@@ -3,3 +3,8 @@
 
 ## Command-2 - Specify
 /speckit.specify Build an application that can help me track my expenses. I can record, categorize, and analyze financial transactions. expenses have details such as amount, date, category, and payment method. include filters for viewing expenses like date range, category, or amount, and generate visual summaries like charts and graps for better insights
+
+
+# Command-3 - Plan
+
+/speckit.plan Web application with HTML, CSS and JavaScript as much as possible. Store the data in a browser database.
